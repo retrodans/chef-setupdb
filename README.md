@@ -1,6 +1,6 @@
 chef-setupdb Cookbook
 ==================
-This cookbook uses the information from your data-bags/sites/xxxx.json file to generate databases, create users, and import sql data from your local sites
+This cookbook uses the information from your data-bags/sites/xxxx.json file to generate databases, create users, and import sql data from your local sites.  This was primarily built for personal use, and to help me learn vagrant/chef setup.
 
 
 Requirements
