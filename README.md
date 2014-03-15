@@ -41,6 +41,13 @@ Add this cookbook, and run it in your regular run_list (I added after the other 
 }
 ```
 
+
+To Look Into
+------------
+#### On vagrant up I get the error 'ERROR 2002 (HY000)'
+This appears to be caused by the queuing of things in chef, although am not yet positive of this.  The error does not occur in subsequent vagrant provision commands, just the initial vagrant up.
+
+
 Contributing
 ------------
 Whilst this wasn't intended for public use and contributing.  I am happy to receive input if others would like to use this cookbook too.  I am just sticking to the default process below for receiving update requests.
